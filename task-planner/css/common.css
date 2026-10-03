@@ -129,4 +129,4 @@ body {
 @media (max-width: 560px) {
   .header__inner { gap: 12px; }
   .nav { order: 3; width: 100%; }
-}
+}  
